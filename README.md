@@ -1,9 +1,10 @@
-# boostcourse - Swift 기초 강의🌱
+# boostcourse - Swift 기초🌱
 <img width=100% src="/certificate/certificate.png">
 
 ---
 
-## [강의록 정리 by notion](https://www.notion.so/imsnowee/869a95ea98494d1194b37b4578725b33?v=dec46e08655c43e0b6a5ddb22a6ed611)🙋🏽‍♂️
+### [강의록 정리 by notion](https://www.notion.so/imsnowee/869a95ea98494d1194b37b4578725b33?v=dec46e08655c43e0b6a5ddb22a6ed611)🙋🏽‍♂️
+### [강의록 정리 by Blog](https://snowee.tistory.com/37)
 
 ## 강의 목록📚
 |강의번호|이름|구분|
